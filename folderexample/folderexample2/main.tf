@@ -7,3 +7,10 @@ resource "resource-group" "thetestrg"{
     MNDKJN
     
 }
+
+resource "storage_account" "testsa" {
+    mbdfkj
+    dmw,nfkjlw
+    klcndwekjl4
+    ndkjn
+}
