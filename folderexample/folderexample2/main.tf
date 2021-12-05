@@ -14,3 +14,4 @@ resource "storage_account" "testsa" {
     klcndwekjl4
     ndkjn
 }
+
